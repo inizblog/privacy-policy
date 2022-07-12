@@ -85,7 +85,7 @@ body{
 
 .main{
   height: auto;
-  font-size: 24px;
+  font-size: 18px;
   font-family: "Times new roman";
   width: 900px;
   padding: 70px;
@@ -97,6 +97,7 @@ body{
 }
 @media screen and (max-width: 480px){
   .main{
+    font-size: 24px;
     width: auto;
     height: auto;
     margin: 0px;
