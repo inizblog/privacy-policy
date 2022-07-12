@@ -136,6 +136,10 @@ body{
   }
 }
 
+h4{
+  text-align: left;
+}
+
 .footer{
   height: 220px;
   width: auto;
